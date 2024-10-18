@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.edu.aprendiendomenus.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="HOLA"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pref"
+        android:orderInCategory="100"
+        android:title="ADIOS"
+        app:showAsAction="never" />
+</menu>
